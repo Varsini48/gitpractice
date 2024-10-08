@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ComparableExample 
+public class ComparableExample jndjncnncjncjnenjnwedendkqs
 {
 	
 	
